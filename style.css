@@ -16,7 +16,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 190px;
+    font-size: 150px;
 }
 .bg-dim{
     margin: 0%;
